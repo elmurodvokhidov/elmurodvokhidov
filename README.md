@@ -1,4 +1,4 @@
-# Elmurod Vokhidov
+# Elmurod Vokhidov ![visitors](https://visitor-badge.laobi.icu/badge?page_id=elmurodvokhidov.elmurodvokhidov)
 
 **`Software Developer, Mentor`**
 
