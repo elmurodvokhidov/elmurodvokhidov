@@ -1,15 +1,20 @@
-# Elmurod Vokhidov ![visitors](https://visitor-badge-five.vercel.app/api/visitor-badge)
+# Elmurod Vokhidov
 
-**`Software Developer, Mentor`**
+**`Full-Stack Developer | Mentor | Tech Enthusiast`**
 
-I'm a full-stack web developer and also a mentor in this field. I started working in this field at the end of 2022 and have worked on several projects until now. As a mentor, I shared my knowledge with everyone and still do. So far, I have met many industry experts and worked with them, which has been a great experience for me. Currently, apart from sharing my knowledge and skills, I am also busy learning other technologies that I don't know about, and it's really fun.
+Passionate and results-driven Full-Stack Web Developer and Mentor with a strong focus on modern web technologies and software best practices. Dedicated to continuous learning, building scalable and impactful applications, and actively contributing to the tech community through knowledge sharing and mentorship. Skilled in designing robust backend systems, crafting intuitive user interfaces, and delivering end-to-end solutions. Open to collaboration, innovation, and challenges that foster personal and professional growth. Committed to lifelong learning and to making a meaningful impact through technology and community engagement.
 
-   <!--<p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elmurodvokhidov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elmurodvokhidov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>-->
+<p align="left">
+      <a href="https://github.com/elmurodvokhidov">
+         <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=elmurodvokhidov&color=lightgrey&style=for-the-badge"/>
+      </a>
+      <a href="https://github.com/elmurodvokhidov?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elmurodvokhidov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      </a>
+      <a href="https://github.com/elmurodvokhidov?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elmurodvokhidov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
+   </p>
 
 #
 
@@ -35,6 +40,8 @@ I'm a full-stack web developer and also a mentor in this field. I started workin
 #
 
 ### 📊 Stats
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmurodvokhidov&show_icons=true&theme=tokyonight)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmurodvokhidov&show_icons=true&theme=tokyonight)-->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=elmurodvokhidov&show_icons=true&theme=tokyonight&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmurodvokhidov&layout=compact&theme=tokyonight&" height="180"/>
+</div>
